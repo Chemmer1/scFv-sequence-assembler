@@ -1,4 +1,5 @@
 The program requires internet connection to access IMGTV database.
+It also requires the latest version of python and the corrisponding libraries
 
 >The program is specifically made to assemble Sanger sequences of antibody fragments (scFv).
 > VECTOR RADIOBUTTONS

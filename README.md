@@ -1,5 +1,7 @@
 The program requires internet connection to access IMGTV database.
-It also requires the latest version of python and the corrisponding libraries
+It also requires the latest version of python and the libraries distinguished by the command import "library_name".
+To run the scrypt, download it, open cmd, change directory to where the scrypt is saved and run it on python "python assembler2.py".
+
 
 >The program is specifically made to assemble Sanger sequences of antibody fragments (scFv).
 > VECTOR RADIOBUTTONS

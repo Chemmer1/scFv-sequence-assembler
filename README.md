@@ -12,7 +12,7 @@ To run the scrypt, download it, open cmd, change directory to where the scrypt i
  The sequence of the linker is utilized to distinguish sense and antisense strand Sanger sequences.
  This step is mandatory as sense and antisense strands are then merged based on nucleotide quality scores and further processed.
 >hit ESEGUI! to run the assembler.
->After hitting the run button, the program requires .avi files from a directory. Multiple files can be selected. The program sorts sense and antisense sequences automatically.
+>After hitting the run button, the program requires .ab1 files from a directory. Multiple files can be selected. The program sorts sense and antisense sequences automatically.
 >The program will generate a word file, where the output will be displayed.
 >THE OUTPUT:
 >The program will align forward and reverse sequence of each scFv, and merge them based on each the highest nucleotide base-call quality. 
